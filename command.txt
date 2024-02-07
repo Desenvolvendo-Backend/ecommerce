@@ -1,0 +1,5 @@
+INICIA UM PROJETO GO
+    > go mod init github.com/Desenvolvendo-Backend/ecommerce
+
+TIRA O QUE NÃO ESTÁ SENDO USADO E INSTALA O QUE PRECISA
+    > go mod tidy
